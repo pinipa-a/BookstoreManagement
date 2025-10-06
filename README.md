@@ -14,7 +14,6 @@ It integrates an ontology to manage books, customers, and sales, and includes a 
 - Add, remove, and manage books dynamically.
 - Customer and agent interactions simulated using Mesa.
 - Ontology-based reasoning for book availability.
-- Generate PDF reports of simulation results.
 - Interactive UI built with Streamlit.
 
 ---
